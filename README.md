@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prashansapkota/Leetcode/tree/master/0036-valid-sudoku) |
+| [0424-longest-repeating-character-replacement](https://github.com/prashansapkota/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prashansapkota/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/prashansapkota/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/prashansapkota/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
