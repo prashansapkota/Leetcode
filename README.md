@@ -87,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prashansapkota/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/prashansapkota/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prashansapkota/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/prashansapkota/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prashansapkota/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/prashansapkota/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 <!---LeetCode Topics End-->
