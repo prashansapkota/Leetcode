@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0853-car-fleet](https://github.com/prashansapkota/Leetcode/tree/master/0853-car-fleet) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/prashansapkota/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/prashansapkota/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/prashansapkota/Leetcode/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/prashansapkota/Leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
@@ -117,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/prashansapkota/Leetcode/tree/master/0200-number-of-islands) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
