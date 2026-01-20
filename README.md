@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/prashansapkota/Leetcode/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prashansapkota/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashansapkota/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0200-number-of-islands](https://github.com/prashansapkota/Leetcode/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/prashansapkota/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/prashansapkota/Leetcode/tree/master/0853-car-fleet) |
 ## Hash Table
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/prashansapkota/Leetcode/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/prashansapkota/Leetcode/tree/master/0200-number-of-islands) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prashansapkota/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/prashansapkota/Leetcode/tree/master/0200-number-of-islands) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/prashansapkota/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/prashansapkota/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prashansapkota/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prashansapkota/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/prashansapkota/Leetcode/tree/master/0200-number-of-islands) |
 | [1302-deepest-leaves-sum](https://github.com/prashansapkota/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
@@ -109,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/prashansapkota/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/prashansapkota/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/prashansapkota/Leetcode/tree/master/1302-deepest-leaves-sum) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/prashansapkota/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
