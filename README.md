@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/prashansapkota/Leetcode/tree/master/0200-number-of-islands) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/prashansapkota/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/prashansapkota/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prashansapkota/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/prashansapkota/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/prashansapkota/Leetcode/tree/master/0200-number-of-islands) |
 | [1302-deepest-leaves-sum](https://github.com/prashansapkota/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prashansapkota/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/prashansapkota/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+## Graph Theory
+|  |
+| ------- |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prashansapkota/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 <!---LeetCode Topics End-->
