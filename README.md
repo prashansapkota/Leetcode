@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/prashansapkota/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/prashansapkota/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prashansapkota/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1971-find-if-path-exists-in-graph](https://github.com/prashansapkota/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/prashansapkota/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1302-deepest-leaves-sum](https://github.com/prashansapkota/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prashansapkota/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1971-find-if-path-exists-in-graph](https://github.com/prashansapkota/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0200-number-of-islands](https://github.com/prashansapkota/Leetcode/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/prashansapkota/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/prashansapkota/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Design
 |  |
 | ------- |
@@ -169,4 +172,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/prashansapkota/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prashansapkota/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1971-find-if-path-exists-in-graph](https://github.com/prashansapkota/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
