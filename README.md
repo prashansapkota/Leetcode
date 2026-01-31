@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0141-linked-list-cycle](https://github.com/prashansapkota/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/prashansapkota/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/prashansapkota/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/prashansapkota/Leetcode/tree/master/0567-permutation-in-string) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/prashansapkota/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Matrix
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0076-minimum-window-substring](https://github.com/prashansapkota/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/prashansapkota/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/prashansapkota/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/prashansapkota/Leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0111-minimum-depth-of-binary-tree](https://github.com/prashansapkota/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/prashansapkota/Leetcode/tree/master/0200-number-of-islands) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/prashansapkota/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0433-minimum-genetic-mutation](https://github.com/prashansapkota/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0695-max-area-of-island](https://github.com/prashansapkota/Leetcode/tree/master/0695-max-area-of-island) |
 | [0909-snakes-and-ladders](https://github.com/prashansapkota/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1302-deepest-leaves-sum](https://github.com/prashansapkota/Leetcode/tree/master/1302-deepest-leaves-sum) |
