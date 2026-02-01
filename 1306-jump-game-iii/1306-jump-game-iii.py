@@ -12,10 +12,17 @@ class Solution:
             left = new_start - arr[new_start]
             right = new_start + arr[new_start]
 
-            for nxt in (left, right):
-                if 0 <= nxt < len(arr) and nxt not in visit:
-                    visit.add(nxt)
-                    queue.append(nxt)
+            # for nxt in (left, right):
+            #     if 0 <= nxt < len(arr) and nxt not in visit:
+            #         visit.add(nxt)
+            #         queue.append(nxt)
+            if 0 <= left < len(arr) and left not in visit:
+                visit.add(left)
+                queue.append(left)
+
+            if 0 <= right < len(arr) and right not in visit:
+                visit.add(right)
+                queue.append(right)
 
         return False
 
