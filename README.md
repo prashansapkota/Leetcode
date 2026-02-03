@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-snakes-and-ladders](https://github.com/prashansapkota/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1306-jump-game-iii](https://github.com/prashansapkota/Leetcode/tree/master/1306-jump-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prashansapkota/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [2101-detonate-the-maximum-bombs](https://github.com/prashansapkota/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/prashansapkota/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/prashansapkota/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Hash Table
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashansapkota/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashansapkota/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [2101-detonate-the-maximum-bombs](https://github.com/prashansapkota/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Stack
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1306-jump-game-iii](https://github.com/prashansapkota/Leetcode/tree/master/1306-jump-game-iii) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prashansapkota/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prashansapkota/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/prashansapkota/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/prashansapkota/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Breadth-First Search
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prashansapkota/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prashansapkota/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prashansapkota/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/prashansapkota/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/prashansapkota/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Binary Tree
 |  |
@@ -198,5 +202,10 @@ A collection of LeetCode questions to ace the coding interview!
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/prashansapkota/Leetcode/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/prashansapkota/Leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1971-find-if-path-exists-in-graph](https://github.com/prashansapkota/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2101-detonate-the-maximum-bombs](https://github.com/prashansapkota/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/prashansapkota/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/prashansapkota/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
