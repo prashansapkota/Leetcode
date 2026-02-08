@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0909-snakes-and-ladders](https://github.com/prashansapkota/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [1306-jump-game-iii](https://github.com/prashansapkota/Leetcode/tree/master/1306-jump-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prashansapkota/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/prashansapkota/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2101-detonate-the-maximum-bombs](https://github.com/prashansapkota/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/prashansapkota/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/prashansapkota/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/prashansapkota/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Data Stream
 |  |
 | ------- |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2101-detonate-the-maximum-bombs](https://github.com/prashansapkota/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
+## Greedy
+|  |
+| ------- |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/prashansapkota/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
