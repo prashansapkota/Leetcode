@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/prashansapkota/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/prashansapkota/Leetcode/tree/master/0853-car-fleet) |
 | [0909-snakes-and-ladders](https://github.com/prashansapkota/Leetcode/tree/master/0909-snakes-and-ladders) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/prashansapkota/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1306-jump-game-iii](https://github.com/prashansapkota/Leetcode/tree/master/1306-jump-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prashansapkota/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prashansapkota/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/prashansapkota/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prashansapkota/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Data Stream
 |  |
@@ -213,5 +215,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [1167-minimum-cost-to-connect-sticks](https://github.com/prashansapkota/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prashansapkota/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 <!---LeetCode Topics End-->
