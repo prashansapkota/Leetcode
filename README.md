@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prashansapkota/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashansapkota/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/prashansapkota/Leetcode/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/prashansapkota/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/prashansapkota/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/prashansapkota/Leetcode/tree/master/0739-daily-temperatures) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prashansapkota/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/prashansapkota/Leetcode/tree/master/0853-car-fleet) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prashansapkota/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/prashansapkota/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prashansapkota/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/prashansapkota/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
