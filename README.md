@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0746-min-cost-climbing-stairs](https://github.com/prashansapkota/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/prashansapkota/Leetcode/tree/master/0853-car-fleet) |
 | [0909-snakes-and-ladders](https://github.com/prashansapkota/Leetcode/tree/master/0909-snakes-and-ladders) |
+| [0973-k-closest-points-to-origin](https://github.com/prashansapkota/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/prashansapkota/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1306-jump-game-iii](https://github.com/prashansapkota/Leetcode/tree/master/1306-jump-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prashansapkota/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashansapkota/Leetcode/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashansapkota/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/prashansapkota/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/prashansapkota/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Stack
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/prashansapkota/Leetcode/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/prashansapkota/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/prashansapkota/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/prashansapkota/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/prashansapkota/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prashansapkota/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
 ## Data Stream
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashansapkota/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/prashansapkota/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashansapkota/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/prashansapkota/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -216,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/prashansapkota/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/prashansapkota/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
 ## Greedy
 |  |
