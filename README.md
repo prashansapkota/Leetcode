@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prashansapkota/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prashansapkota/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prashansapkota/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/prashansapkota/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/prashansapkota/Leetcode/tree/master/1302-deepest-leaves-sum) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/prashansapkota/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/prashansapkota/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/prashansapkota/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prashansapkota/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/prashansapkota/Leetcode/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1302-deepest-leaves-sum](https://github.com/prashansapkota/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Union-Find
@@ -176,12 +178,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prashansapkota/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/prashansapkota/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/prashansapkota/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prashansapkota/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0973-k-closest-points-to-origin](https://github.com/prashansapkota/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/prashansapkota/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prashansapkota/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prashansapkota/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -236,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/prashansapkota/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/prashansapkota/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
