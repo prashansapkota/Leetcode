@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0853-car-fleet](https://github.com/prashansapkota/Leetcode/tree/master/0853-car-fleet) |
 | [0909-snakes-and-ladders](https://github.com/prashansapkota/Leetcode/tree/master/0909-snakes-and-ladders) |
 | [0973-k-closest-points-to-origin](https://github.com/prashansapkota/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1004-max-consecutive-ones-iii](https://github.com/prashansapkota/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/prashansapkota/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1306-jump-game-iii](https://github.com/prashansapkota/Leetcode/tree/master/1306-jump-game-iii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/prashansapkota/Leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/prashansapkota/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/prashansapkota/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/prashansapkota/Leetcode/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/prashansapkota/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/prashansapkota/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/prashansapkota/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 ## Graph Theory
 |  |
@@ -229,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1167-minimum-cost-to-connect-sticks](https://github.com/prashansapkota/Leetcode/tree/master/1167-minimum-cost-to-connect-sticks) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/prashansapkota/Leetcode/tree/master/1962-remove-stones-to-minimize-the-total) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/prashansapkota/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
