@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/prashansapkota/Leetcode/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/prashansapkota/Leetcode/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/prashansapkota/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0973-k-closest-points-to-origin](https://github.com/prashansapkota/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [2101-detonate-the-maximum-bombs](https://github.com/prashansapkota/Leetcode/tree/master/2101-detonate-the-maximum-bombs) |
