@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prashansapkota/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/prashansapkota/Leetcode/tree/master/0392-is-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/prashansapkota/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/prashansapkota/Leetcode/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 ## String
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0076-minimum-window-substring](https://github.com/prashansapkota/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0344-reverse-string](https://github.com/prashansapkota/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/prashansapkota/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/prashansapkota/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/prashansapkota/Leetcode/tree/master/0433-minimum-genetic-mutation) |
 | [0567-permutation-in-string](https://github.com/prashansapkota/Leetcode/tree/master/0567-permutation-in-string) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/prashansapkota/Leetcode/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/prashansapkota/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/prashansapkota/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/prashansapkota/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/prashansapkota/Leetcode/tree/master/0567-permutation-in-string) |
 ## Linked List
 |  |
